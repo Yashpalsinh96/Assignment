@@ -1,2 +1,7 @@
 # Assignment
-This repository is created as part of an assignment
+
+This is the first repository
+
+## Initial Commit
+
+Readme File
